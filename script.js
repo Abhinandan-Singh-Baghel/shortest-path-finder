@@ -2,8 +2,8 @@ var len = 10;
 
 
 
-var wall = 'rgb(255,255,255)';
-var original = 'rgb(52,58,58)';
+var wall = 'rgb(255, 255, 255)';
+var original = 'rgb(52, 52, 52)';
 var path = '#fce303';
 
 function setup()
